@@ -4,4 +4,4 @@ This application is used to install and remove XAMPP, Composer and Git requireme
 
 
 Please select a language for more information.
-<a href="https://github.com/aliyilmaz/debian-php-developer/blob/master/TR.md">Türkçe</a> | <a href="https://github.com/aliyilmaz/debian-php-developer/blob/master/EN.md">English</a> 
+<a href="https://github.com/aliyilmaz/debian-php-developer/blob/main/docs/TR.md">Türkçe</a> | <a href="https://github.com/aliyilmaz/debian-php-developer/blob/main/docs/EN.md">English</a> 
