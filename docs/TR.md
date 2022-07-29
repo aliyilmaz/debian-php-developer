@@ -18,11 +18,11 @@ Bu uygulama XAMPP, Composer ve Git gereksinimlerini yüklemek ve kaldırmak içi
 
 1) [Bu bağlantıyı tıklayıp](https://github.com/aliyilmaz/debian-php-developer/archive/refs/heads/main.zip) **debian-php-developer** dizinini indirin ve klasöre çıkarın.
 
-2) **Terminal**nü açıp dosyaların çıkarıldığı dizine `cd` komutu yardımıyla ulaşın.
+2) **Terminal**i açıp dosyaların çıkarıldığı dizine `cd` komutu yardımıyla ulaşın.
 
 3) **Terminal**ndeyken `sh install.sh` komutunu çalıştırarak kurulumu başlatın ve karşınıza gelen kurulum arayüzünü ilerletin, kurulum ekranı kapandığında, diğer tüm ayarlar gerçekleştirilmeye başlanacaktır, bu ayarlar uygulandığı sırada size GitHub E-Posta adresiniz ve Kullanıcı Adınız (Ali Yılmaz) sorularak Git ayarlarınız gerçekleştirilecektir.
 
-**Not:** Kurulum tamamlandıktan sonra **Terminal**nde composer, git veya php komutlarını kullanabilirsiniz. Ayrıca işletim sistemi uygulamaları içinden **XAMPP Control Panel** uygulamasını çalıştırabilirsiniz.
+**Not:** Kurulum tamamlandıktan sonra **Terminal**de composer, git veya php komutlarını kullanabilirsiniz. Ayrıca işletim sistemi uygulamaları içinden **XAMPP Control Panel** uygulamasını çalıştırabilirsiniz.
 
 ### Kaldırma
 
