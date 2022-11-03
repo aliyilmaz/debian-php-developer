@@ -15,30 +15,36 @@ echo "
 "
 read -p "
 Please select the PHP version.
-1) PHP 8.1.6
-2) PHP 7.4.29
-3) PHP 7.3.33
-4) PHP 5.6.40
+1) PHP 8.1.10
+2) PHP 8.0.23
+3) PHP 7.4.29
+4) PHP 7.3.33
+5) PHP 5.6.40
 
 " XamppVersion
 
 case $XamppVersion in
 
   1)
-    LONG_TEXT="8.1.6-0"
-    SHORT_TEXT="8.1.6"
+    LONG_TEXT="8.1.10-0"
+    SHORT_TEXT="8.1.10"
+    ;;
+  
+  2)
+    LONG_TEXT="8.0.23-0"
+    SHORT_TEXT="8.0.23"
     ;;
 
-  2)
+  3)
     LONG_TEXT="7.4.29-1"
     SHORT_TEXT="7.4.29"
     ;;
 
-  3)
+  4)
     LONG_TEXT="7.3.33-0"
     SHORT_TEXT="7.3.33"
     ;;
-  4)
+  5)
     LONG_TEXT="5.6.40-1"
     SHORT_TEXT="5.6.40"
     ;;
