@@ -7,9 +7,8 @@ Bu uygulama XAMPP, Composer ve Git gereksinimlerini yüklemek ve kaldırmak içi
 ## İçindekiler
 
 1) Seçilen XAMPP versiyonu
-    * PHP 8.1.6
-    * PHP 7.4.29
-    * PHP 7.3.33
+    * PHP 8.2.0
+    * PHP 7.4.33
     * PHP 5.6.40
 2) Composer (son versiyon)
 3) Git (son versiyon)
