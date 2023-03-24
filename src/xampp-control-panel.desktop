@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=XAMPP Control Panel
+Comment=Start and Stop XAMPP
+Exec=pkexec /opt/lampp/manager-linux-x64.run
+Icon=/opt/lampp/img/xampp-logo.svg
+Categories=Development
+Type=Application
+Terminal=false
